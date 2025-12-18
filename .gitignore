@@ -1,0 +1,13 @@
+# Ignore Excel temporary files
+~$*.xlsx
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python caches (if applicable)
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
