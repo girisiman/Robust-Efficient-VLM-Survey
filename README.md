@@ -80,4 +80,14 @@ Developing **lightweight video-language models** that enable robust object track
 - Core literature in video–language models and object tracking will be systematically reviewed  
 - Fundamental tracking paradigms and modern architectures will be studied  
 - Language-guided and grounding-based tracking approaches will be analyzed  
-- Key concepts will be synthesized to form an initial taxonomy and research framework  
+- Key concepts will be synthesized to form an initial taxonomy and research framework
+
+---
+
+🎯 RobustVLM
+🔬 Survey on efficient video-language tracking
+   💪 Robust | ⚡ Efficient | 🎬 Video | 💬 Language
+   ⚡ Small models | 💪 Robust | 🚀 Real-time
+   📊 150+ papers | 🎓 PhD research
+   
+```
