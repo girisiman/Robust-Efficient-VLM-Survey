@@ -84,10 +84,10 @@ Developing **lightweight video-language models** that enable robust object track
 
 ---
 
-🎯 RobustVLM
-🔬 Survey on efficient video-language tracking
-   💪 Robust | ⚡ Efficient | 🎬 Video | 💬 Language
-   ⚡ Small models | 💪 Robust | 🚀 Real-time
-   📊 150+ papers | 🎓 PhD research
+### 🎯 RobustVLM
+## 🔬 Survey on efficient video-language tracking
+   - 💪 Robust | ⚡ Efficient | 🎬 Video | 💬 Language
+   - ⚡ Small models | 💪 Robust | 🚀 Real-time
+   - 📊 100+ papers | 🎓 PhD research
    
 ```
